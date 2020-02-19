@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nbagame/static/css/main.fcfc5bb9.chunk.css",
+    "main.js": "/nbagame/static/js/main.72d4f8c7.chunk.js",
+    "main.js.map": "/nbagame/static/js/main.72d4f8c7.chunk.js.map",
+    "runtime-main.js": "/nbagame/static/js/runtime-main.db4ddf10.js",
+    "runtime-main.js.map": "/nbagame/static/js/runtime-main.db4ddf10.js.map",
+    "static/js/2.c4f1752f.chunk.js": "/nbagame/static/js/2.c4f1752f.chunk.js",
+    "static/js/2.c4f1752f.chunk.js.map": "/nbagame/static/js/2.c4f1752f.chunk.js.map",
+    "index.html": "/nbagame/index.html",
+    "precache-manifest.ff03ebad1096d2adf9b4a690689099d2.js": "/nbagame/precache-manifest.ff03ebad1096d2adf9b4a690689099d2.js",
+    "service-worker.js": "/nbagame/service-worker.js",
+    "static/css/main.fcfc5bb9.chunk.css.map": "/nbagame/static/css/main.fcfc5bb9.chunk.css.map",
+    "static/js/2.c4f1752f.chunk.js.LICENSE.txt": "/nbagame/static/js/2.c4f1752f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db4ddf10.js",
+    "static/js/2.c4f1752f.chunk.js",
+    "static/css/main.fcfc5bb9.chunk.css",
+    "static/js/main.72d4f8c7.chunk.js"
+  ]
+}
