@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.row {
+  margin: 0;
+  padding: 0;
+}
+.gameTitleDiv {
+  text-align: center;
+}
+.gameTitle {
+  font-family: 'Roboto Condensed', sans-serif;
+  text-transform: uppercase;
+}
+.player-img {
+  width: 80%;
+}
+.player-card-div {
+  font-family: 'Roboto Condensed';
+  text-align: center;
+}
+.select-btn {
+  border: none;
+  background-color: black;
+  color: white;
+  font-family: 'Roboto Condensed';
+  width: 100%;
+  height: 50px;
+  border-radius: 10px;
+  font-size: 2rem;
+}
+
+.score-div {
+  text-align: center;
+  font-family: 'Roboto Condensed';
+  font-size: 10rem;
+  width: 100%;
+}
+.player-points {
+  font-size: 3rem;
+}
+.gameDiv {
+  margin-top: 4rem;
+}
